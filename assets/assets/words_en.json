@@ -1,0 +1,2284 @@
+{
+  "words": [
+    {
+      "word": "THAT",
+      "description": "Used to point to something already known."
+    },
+    {
+      "word": "WITH",
+      "description": "Shows company or use."
+    },
+    {
+      "word": "THEY",
+      "description": "Pronoun for more than one person or thing."
+    },
+    {
+      "word": "HAVE",
+      "description": "Means to own or hold."
+    },
+    {
+      "word": "THIS",
+      "description": "Used to point to something near."
+    },
+    {
+      "word": "FROM",
+      "description": "Shows starting point or source."
+    },
+    {
+      "word": "WORD",
+      "description": "A unit of language with meaning."
+    },
+    {
+      "word": "WHAT",
+      "description": "Used to ask about a thing or idea."
+    },
+    {
+      "word": "SOME",
+      "description": "An unspecified amount or number."
+    },
+    {
+      "word": "OTHER",
+      "description": "Different or additional."
+    },
+    {
+      "word": "WERE",
+      "description": "Past plural form of be."
+    },
+    {
+      "word": "WHICH",
+      "description": "Used to choose between options."
+    },
+    {
+      "word": "THEIR",
+      "description": "Belonging to them."
+    },
+    {
+      "word": "TIME",
+      "description": "Measured passing of moments."
+    },
+    {
+      "word": "WILL",
+      "description": "Shows future or intent."
+    },
+    {
+      "word": "SAID",
+      "description": "Past form of speak."
+    },
+    {
+      "word": "EACH",
+      "description": "Every one in a group."
+    },
+    {
+      "word": "TELL",
+      "description": "To give information in words."
+    },
+    {
+      "word": "DOES",
+      "description": "Third-person form of do."
+    },
+    {
+      "word": "THREE",
+      "description": "Number after two."
+    },
+    {
+      "word": "WANT",
+      "description": "To wish for something."
+    },
+    {
+      "word": "WELL",
+      "description": "In a good or skillful way."
+    },
+    {
+      "word": "ALSO",
+      "description": "In addition to something else."
+    },
+    {
+      "word": "PLAY",
+      "description": "To have fun or perform a game."
+    },
+    {
+      "word": "SMALL",
+      "description": "Not large in size."
+    },
+    {
+      "word": "HOME",
+      "description": "The place where someone lives."
+    },
+    {
+      "word": "READ",
+      "description": "To look at and understand writing."
+    },
+    {
+      "word": "HAND",
+      "description": "The body part at the end of the arm."
+    },
+    {
+      "word": "PORT",
+      "description": "A place where ships stop."
+    },
+    {
+      "word": "LARGE",
+      "description": "Big in size."
+    },
+    {
+      "word": "SPELL",
+      "description": "To form a word with letters."
+    },
+    {
+      "word": "EVEN",
+      "description": "Flat, equal, or used for emphasis."
+    },
+    {
+      "word": "LAND",
+      "description": "The solid ground of the earth."
+    },
+    {
+      "word": "HERE",
+      "description": "In this place."
+    },
+    {
+      "word": "MUST",
+      "description": "Shows necessity."
+    },
+    {
+      "word": "HIGH",
+      "description": "Far above the ground."
+    },
+    {
+      "word": "SUCH",
+      "description": "Of that kind."
+    },
+    {
+      "word": "FOLLOW",
+      "description": "To go after or obey."
+    },
+    {
+      "word": "CHANGE",
+      "description": "To make something different."
+    },
+    {
+      "word": "WENT",
+      "description": "Past form of go."
+    },
+    {
+      "word": "LIGHT",
+      "description": "Something that makes things visible."
+    },
+    {
+      "word": "KIND",
+      "description": "A type, or gentle behavior."
+    },
+    {
+      "word": "NEED",
+      "description": "To require something."
+    },
+    {
+      "word": "HOUSE",
+      "description": "A building for people to live in."
+    },
+    {
+      "word": "PICTURE",
+      "description": "An image or drawing."
+    },
+    {
+      "word": "AGAIN",
+      "description": "One more time."
+    },
+    {
+      "word": "ANIMAL",
+      "description": "A living creature that is not a plant."
+    },
+    {
+      "word": "POINT",
+      "description": "A sharp end or exact place."
+    },
+    {
+      "word": "MOTHER",
+      "description": "A female parent."
+    },
+    {
+      "word": "WORLD",
+      "description": "The earth and its people."
+    },
+    {
+      "word": "NEAR",
+      "description": "Close in distance."
+    },
+    {
+      "word": "BUILD",
+      "description": "To make by putting parts together."
+    },
+    {
+      "word": "SELF",
+      "description": "The person or thing itself."
+    },
+    {
+      "word": "EARTH",
+      "description": "The planet we live on."
+    },
+    {
+      "word": "FATHER",
+      "description": "A male parent."
+    },
+    {
+      "word": "WORK",
+      "description": "Effort done for a task or job."
+    },
+    {
+      "word": "PART",
+      "description": "A piece of a whole."
+    },
+    {
+      "word": "TAKE",
+      "description": "To get or carry something."
+    },
+    {
+      "word": "PLACE",
+      "description": "A location or position."
+    },
+    {
+      "word": "MADE",
+      "description": "Created or produced."
+    },
+    {
+      "word": "LIVE",
+      "description": "To be alive or stay somewhere."
+    },
+    {
+      "word": "WHERE",
+      "description": "Used to ask about a place."
+    },
+    {
+      "word": "AFTER",
+      "description": "Later than something else."
+    },
+    {
+      "word": "BACK",
+      "description": "The rear part, or return again."
+    },
+    {
+      "word": "LITTLE",
+      "description": "Small in size or amount."
+    },
+    {
+      "word": "ONLY",
+      "description": "No more than this."
+    },
+    {
+      "word": "ROUND",
+      "description": "Shaped like a circle, or around."
+    },
+    {
+      "word": "YEAR",
+      "description": "Twelve months."
+    },
+    {
+      "word": "CAME",
+      "description": "Past form of come."
+    },
+    {
+      "word": "SHOW",
+      "description": "To display or make visible."
+    },
+    {
+      "word": "EVERY",
+      "description": "Each one of a group."
+    },
+    {
+      "word": "GOOD",
+      "description": "Of high quality or kind."
+    },
+    {
+      "word": "GIVE",
+      "description": "To hand something to someone."
+    },
+    {
+      "word": "UNDER",
+      "description": "Below something."
+    },
+    {
+      "word": "NAME",
+      "description": "A word used to identify someone or something."
+    },
+    {
+      "word": "VERY",
+      "description": "To a high degree."
+    },
+    {
+      "word": "THROUGH",
+      "description": "From one side to the other."
+    },
+    {
+      "word": "JUST",
+      "description": "Only, fair, or exactly."
+    },
+    {
+      "word": "FORM",
+      "description": "Shape or arrangement."
+    },
+    {
+      "word": "SENTENCE",
+      "description": "A group of words that makes a full thought."
+    },
+    {
+      "word": "GREAT",
+      "description": "Very large or very good."
+    },
+    {
+      "word": "THINK",
+      "description": "To use the mind."
+    },
+    {
+      "word": "HELP",
+      "description": "To assist."
+    },
+    {
+      "word": "LINE",
+      "description": "A long narrow mark or row."
+    },
+    {
+      "word": "DIFFER",
+      "description": "To be unlike."
+    },
+    {
+      "word": "TURN",
+      "description": "To move around or change direction."
+    },
+    {
+      "word": "CAUSE",
+      "description": "A reason something happens."
+    },
+    {
+      "word": "MUCH",
+      "description": "A large amount."
+    },
+    {
+      "word": "MEAN",
+      "description": "To intend or signify."
+    },
+    {
+      "word": "BEFORE",
+      "description": "Earlier than something else."
+    },
+    {
+      "word": "MOVE",
+      "description": "To change place or position."
+    },
+    {
+      "word": "RIGHT",
+      "description": "Correct, or the opposite of left."
+    },
+    {
+      "word": "SAME",
+      "description": "Not different."
+    },
+    {
+      "word": "THERE",
+      "description": "In that place."
+    },
+    {
+      "word": "WHEN",
+      "description": "Used to ask about time."
+    },
+    {
+      "word": "YOUR",
+      "description": "Belonging to you."
+    },
+    {
+      "word": "ABOUT",
+      "description": "Concerning or around."
+    },
+    {
+      "word": "MANY",
+      "description": "A large number."
+    },
+    {
+      "word": "THEN",
+      "description": "After that time."
+    },
+    {
+      "word": "THEM",
+      "description": "Pronoun for those people or things."
+    },
+    {
+      "word": "WRITE",
+      "description": "To put words on a surface."
+    },
+    {
+      "word": "WOULD",
+      "description": "Shows possibility or intention in some situations."
+    },
+    {
+      "word": "LIKE",
+      "description": "Similar to, or to enjoy."
+    },
+    {
+      "word": "THESE",
+      "description": "Used to point to nearby plural things."
+    },
+    {
+      "word": "LONG",
+      "description": "Great in length or time."
+    },
+    {
+      "word": "MAKE",
+      "description": "To create or cause."
+    },
+    {
+      "word": "THING",
+      "description": "An object, matter, or idea."
+    },
+    {
+      "word": "LOOK",
+      "description": "To use the eyes."
+    },
+    {
+      "word": "MORE",
+      "description": "A greater amount."
+    },
+    {
+      "word": "COULD",
+      "description": "Shows possibility or past ability."
+    },
+    {
+      "word": "COME",
+      "description": "To move toward a place or person."
+    },
+    {
+      "word": "NUMBER",
+      "description": "A symbol or amount in counting."
+    },
+    {
+      "word": "SOUND",
+      "description": "Something heard by the ear."
+    },
+    {
+      "word": "MOST",
+      "description": "The greatest amount or number."
+    },
+    {
+      "word": "PEOPLE",
+      "description": "Human beings in general."
+    },
+    {
+      "word": "OVER",
+      "description": "Above or across something."
+    },
+    {
+      "word": "KNOW",
+      "description": "To be aware of or understand."
+    },
+    {
+      "word": "WATER",
+      "description": "Clear liquid needed for life."
+    },
+    {
+      "word": "THAN",
+      "description": "Used in comparisons."
+    },
+    {
+      "word": "CALL",
+      "description": "To speak to someone or give a name."
+    },
+    {
+      "word": "FIRST",
+      "description": "Coming before all others."
+    },
+    {
+      "word": "DOWN",
+      "description": "Toward a lower place."
+    },
+    {
+      "word": "SIDE",
+      "description": "One surface or edge of something."
+    },
+    {
+      "word": "BEEN",
+      "description": "Past participle of be."
+    },
+    {
+      "word": "FIND",
+      "description": "To discover or locate."
+    },
+    {
+      "word": "HEAD",
+      "description": "The top part of the body."
+    },
+    {
+      "word": "STAND",
+      "description": "To be upright on the feet."
+    },
+    {
+      "word": "PAGE",
+      "description": "One side of a sheet in a book."
+    },
+    {
+      "word": "SHOULD",
+      "description": "Used to suggest or advise."
+    },
+    {
+      "word": "COUNTRY",
+      "description": "A nation or rural area."
+    },
+    {
+      "word": "FOUND",
+      "description": "Discovered or established."
+    },
+    {
+      "word": "ANSWER",
+      "description": "A reply to a question."
+    },
+    {
+      "word": "SCHOOL",
+      "description": "A place for learning."
+    },
+    {
+      "word": "GROW",
+      "description": "To become bigger or older."
+    },
+    {
+      "word": "STUDY",
+      "description": "To learn about something carefully."
+    },
+    {
+      "word": "STILL",
+      "description": "Not moving, or even now."
+    },
+    {
+      "word": "LEARN",
+      "description": "To gain knowledge or skill."
+    },
+    {
+      "word": "PLANT",
+      "description": "A living thing that grows in soil."
+    },
+    {
+      "word": "COVER",
+      "description": "To place something over another thing."
+    },
+    {
+      "word": "FOOD",
+      "description": "Something eaten for energy."
+    },
+    {
+      "word": "FOUR",
+      "description": "Number after three."
+    },
+    {
+      "word": "BETWEEN",
+      "description": "In the space separating two things."
+    },
+    {
+      "word": "STATE",
+      "description": "A condition, or a political region."
+    },
+    {
+      "word": "KEEP",
+      "description": "To hold or continue to have."
+    },
+    {
+      "word": "NEVER",
+      "description": "At no time."
+    },
+    {
+      "word": "LAST",
+      "description": "Final, or most recent."
+    },
+    {
+      "word": "THOUGHT",
+      "description": "An idea formed in the mind."
+    },
+    {
+      "word": "CITY",
+      "description": "A large town."
+    },
+    {
+      "word": "TREE",
+      "description": "A tall plant with a trunk."
+    },
+    {
+      "word": "CROSS",
+      "description": "To go from one side to another."
+    },
+    {
+      "word": "FARM",
+      "description": "Land used for growing crops or animals."
+    },
+    {
+      "word": "HARD",
+      "description": "Difficult or firm."
+    },
+    {
+      "word": "START",
+      "description": "To begin."
+    },
+    {
+      "word": "MIGHT",
+      "description": "Shows possibility or power."
+    },
+    {
+      "word": "STORY",
+      "description": "A tale or account of events."
+    },
+    {
+      "word": "DRAW",
+      "description": "To make a picture or pull something."
+    },
+    {
+      "word": "LEFT",
+      "description": "Past of leave, or opposite of right."
+    },
+    {
+      "word": "LATE",
+      "description": "After the expected time."
+    },
+    {
+      "word": "WHILE",
+      "description": "A period of time, or although."
+    },
+    {
+      "word": "PRESS",
+      "description": "To push down."
+    },
+    {
+      "word": "CLOSE",
+      "description": "Near, or shut."
+    },
+    {
+      "word": "NIGHT",
+      "description": "The dark part of the day."
+    },
+    {
+      "word": "REAL",
+      "description": "True or actual."
+    },
+    {
+      "word": "LIFE",
+      "description": "The state of being alive."
+    },
+    {
+      "word": "NORTH",
+      "description": "The direction opposite south."
+    },
+    {
+      "word": "BOOK",
+      "description": "A written work with pages."
+    },
+    {
+      "word": "CARRY",
+      "description": "To hold and move something."
+    },
+    {
+      "word": "TOOK",
+      "description": "Past form of take."
+    },
+    {
+      "word": "SCIENCE",
+      "description": "Organized study of the natural world."
+    },
+    {
+      "word": "ROOM",
+      "description": "A space inside a building."
+    },
+    {
+      "word": "FRIEND",
+      "description": "A person you like and trust."
+    },
+    {
+      "word": "BEGAN",
+      "description": "Past form of begin."
+    },
+    {
+      "word": "IDEA",
+      "description": "A thought or plan."
+    },
+    {
+      "word": "FISH",
+      "description": "An animal that lives in water."
+    },
+    {
+      "word": "MOUNTAIN",
+      "description": "A very high area of land."
+    },
+    {
+      "word": "STOP",
+      "description": "To end movement or action."
+    },
+    {
+      "word": "ONCE",
+      "description": "One time."
+    },
+    {
+      "word": "BASE",
+      "description": "The bottom support or starting point."
+    },
+    {
+      "word": "HEAR",
+      "description": "To notice sound."
+    },
+    {
+      "word": "HORSE",
+      "description": "A large animal used for riding."
+    },
+    {
+      "word": "SURE",
+      "description": "Certain or confident."
+    },
+    {
+      "word": "WATCH",
+      "description": "To look at carefully, or a small timepiece."
+    },
+    {
+      "word": "COLOR",
+      "description": "The appearance created by light."
+    },
+    {
+      "word": "FACE",
+      "description": "The front part of the head."
+    },
+    {
+      "word": "WOOD",
+      "description": "Hard material from trees."
+    },
+    {
+      "word": "MAIN",
+      "description": "Most important."
+    },
+    {
+      "word": "OPEN",
+      "description": "Not closed."
+    },
+    {
+      "word": "SEEM",
+      "description": "To appear in a certain way."
+    },
+    {
+      "word": "TOGETHER",
+      "description": "In the same place or time."
+    },
+    {
+      "word": "NEXT",
+      "description": "Coming right after."
+    },
+    {
+      "word": "WHITE",
+      "description": "The color of snow or milk."
+    },
+    {
+      "word": "CHILDREN",
+      "description": "Young people below adult age."
+    },
+    {
+      "word": "BEGIN",
+      "description": "To start."
+    },
+    {
+      "word": "WALK",
+      "description": "To move on foot."
+    },
+    {
+      "word": "EXAMPLE",
+      "description": "Something that shows what another thing is like."
+    },
+    {
+      "word": "EASE",
+      "description": "Freedom from difficulty or pain."
+    },
+    {
+      "word": "PAPER",
+      "description": "Material used for writing or printing."
+    },
+    {
+      "word": "GROUP",
+      "description": "A number of people or things together."
+    },
+    {
+      "word": "ALWAYS",
+      "description": "At all times."
+    },
+    {
+      "word": "MUSIC",
+      "description": "Organized sound for listening."
+    },
+    {
+      "word": "THOSE",
+      "description": "Used to point to distant plural things."
+    },
+    {
+      "word": "BOTH",
+      "description": "The two together."
+    },
+    {
+      "word": "MARK",
+      "description": "A sign, line, or grade."
+    },
+    {
+      "word": "OFTEN",
+      "description": "Many times."
+    },
+    {
+      "word": "LETTER",
+      "description": "A written symbol or mailed message."
+    },
+    {
+      "word": "UNTIL",
+      "description": "Up to a certain time."
+    },
+    {
+      "word": "MILE",
+      "description": "A unit for measuring distance."
+    },
+    {
+      "word": "RIVER",
+      "description": "A large natural flow of water."
+    },
+    {
+      "word": "FEET",
+      "description": "Plural of foot."
+    },
+    {
+      "word": "CARE",
+      "description": "Attention or concern."
+    },
+    {
+      "word": "SECOND",
+      "description": "Number two in order or a short unit of time."
+    },
+    {
+      "word": "ENOUGH",
+      "description": "As much as needed."
+    },
+    {
+      "word": "PLAIN",
+      "description": "Simple or easy to see."
+    },
+    {
+      "word": "GIRL",
+      "description": "A young female person."
+    },
+    {
+      "word": "USUAL",
+      "description": "Common or expected."
+    },
+    {
+      "word": "YOUNG",
+      "description": "Not old."
+    },
+    {
+      "word": "READY",
+      "description": "Prepared for action."
+    },
+    {
+      "word": "ABOVE",
+      "description": "Higher than something else."
+    },
+    {
+      "word": "EVER",
+      "description": "At any time."
+    },
+    {
+      "word": "LIST",
+      "description": "A set of items in order."
+    },
+    {
+      "word": "THOUGH",
+      "description": "Despite that."
+    },
+    {
+      "word": "FEEL",
+      "description": "To sense or experience."
+    },
+    {
+      "word": "TALK",
+      "description": "To speak with words."
+    },
+    {
+      "word": "BIRD",
+      "description": "An animal with feathers and wings."
+    },
+    {
+      "word": "SOON",
+      "description": "In a short time."
+    },
+    {
+      "word": "BODY",
+      "description": "The physical form of a person or animal."
+    },
+    {
+      "word": "FAMILY",
+      "description": "A group of related people."
+    },
+    {
+      "word": "DIRECT",
+      "description": "Straight, or to guide."
+    },
+    {
+      "word": "POSE",
+      "description": "To place in a position or present a problem."
+    },
+    {
+      "word": "LEAVE",
+      "description": "To go away."
+    },
+    {
+      "word": "SONG",
+      "description": "A piece of music with words."
+    },
+    {
+      "word": "MEASURE",
+      "description": "To find size or amount."
+    },
+    {
+      "word": "DOOR",
+      "description": "A panel used for entering or leaving a room."
+    },
+    {
+      "word": "PRODUCT",
+      "description": "Something made or grown for use or sale."
+    },
+    {
+      "word": "BLACK",
+      "description": "The darkest color."
+    },
+    {
+      "word": "SHORT",
+      "description": "Not long."
+    },
+    {
+      "word": "NUMERAL",
+      "description": "A written symbol for a number."
+    },
+    {
+      "word": "CLASS",
+      "description": "A group of students or a category."
+    },
+    {
+      "word": "WIND",
+      "description": "Moving air."
+    },
+    {
+      "word": "QUESTION",
+      "description": "Something asked to get an answer."
+    },
+    {
+      "word": "HAPPEN",
+      "description": "To take place."
+    },
+    {
+      "word": "COMPLETE",
+      "description": "Finished with nothing missing."
+    },
+    {
+      "word": "SHIP",
+      "description": "A large boat."
+    },
+    {
+      "word": "AREA",
+      "description": "A particular region or space."
+    },
+    {
+      "word": "HALF",
+      "description": "One of two equal parts."
+    },
+    {
+      "word": "ROCK",
+      "description": "A hard natural stone."
+    },
+    {
+      "word": "ORDER",
+      "description": "Arrangement, or a request to buy."
+    },
+    {
+      "word": "FIRE",
+      "description": "Heat and flames, or to shoot."
+    },
+    {
+      "word": "SOUTH",
+      "description": "The direction opposite north."
+    },
+    {
+      "word": "PROBLEM",
+      "description": "Something difficult that needs a solution."
+    },
+    {
+      "word": "PIECE",
+      "description": "A part of a whole."
+    },
+    {
+      "word": "TOLD",
+      "description": "Past form of tell."
+    },
+    {
+      "word": "KNEW",
+      "description": "Past form of know."
+    },
+    {
+      "word": "PASS",
+      "description": "To move by, succeed, or hand over."
+    },
+    {
+      "word": "SINCE",
+      "description": "From a past time until now."
+    },
+    {
+      "word": "WHOLE",
+      "description": "All of something."
+    },
+    {
+      "word": "KING",
+      "description": "A male ruler."
+    },
+    {
+      "word": "STREET",
+      "description": "A road in a town or city."
+    },
+    {
+      "word": "INCH",
+      "description": "A small unit of length."
+    },
+    {
+      "word": "MULTIPLY",
+      "description": "To increase by repeated addition."
+    },
+    {
+      "word": "NOTHING",
+      "description": "Not anything."
+    },
+    {
+      "word": "COURSE",
+      "description": "A route, meal part, or class of study."
+    },
+    {
+      "word": "STAY",
+      "description": "To remain in a place."
+    },
+    {
+      "word": "WHEEL",
+      "description": "A round part that turns."
+    },
+    {
+      "word": "FULL",
+      "description": "Holding as much as possible."
+    },
+    {
+      "word": "FORCE",
+      "description": "Strength, power, or a group in authority."
+    },
+    {
+      "word": "BLUE",
+      "description": "The color of a clear sky."
+    },
+    {
+      "word": "OBJECT",
+      "description": "A thing that can be seen or touched."
+    },
+    {
+      "word": "DECIDE",
+      "description": "To make a choice."
+    },
+    {
+      "word": "SURFACE",
+      "description": "The outside layer of something."
+    },
+    {
+      "word": "DEEP",
+      "description": "Extending far downward or inward."
+    },
+    {
+      "word": "MOON",
+      "description": "The natural object that circles Earth."
+    },
+    {
+      "word": "ISLAND",
+      "description": "Land surrounded by water."
+    },
+    {
+      "word": "FOOT",
+      "description": "The end part of the leg, or a unit of measure."
+    },
+    {
+      "word": "SYSTEM",
+      "description": "A set of connected parts."
+    },
+    {
+      "word": "BUSY",
+      "description": "Having a lot to do."
+    },
+    {
+      "word": "TEST",
+      "description": "A way to check knowledge or quality."
+    },
+    {
+      "word": "RECORD",
+      "description": "To store information, or a stored account."
+    },
+    {
+      "word": "BOAT",
+      "description": "A small vessel for water."
+    },
+    {
+      "word": "COMMON",
+      "description": "Ordinary or shared."
+    },
+    {
+      "word": "GOLD",
+      "description": "A valuable yellow metal."
+    },
+    {
+      "word": "POSSIBLE",
+      "description": "Able to happen."
+    },
+    {
+      "word": "PLANE",
+      "description": "An aircraft, or a flat surface."
+    },
+    {
+      "word": "STEAD",
+      "description": "In place of something else."
+    },
+    {
+      "word": "WONDER",
+      "description": "A feeling of surprise or awe."
+    },
+    {
+      "word": "LAUGH",
+      "description": "A sound or action of amusement."
+    },
+    {
+      "word": "THOUSAND",
+      "description": "The number after nine hundred ninety-nine."
+    },
+    {
+      "word": "CHECK",
+      "description": "To examine, or a mark of approval."
+    },
+    {
+      "word": "GAME",
+      "description": "An activity played for fun or contest."
+    },
+    {
+      "word": "SHAPE",
+      "description": "The form of something."
+    },
+    {
+      "word": "EQUATE",
+      "description": "To treat as equal."
+    },
+    {
+      "word": "MISS",
+      "description": "To fail to hit or feel absence of someone."
+    },
+    {
+      "word": "BROUGHT",
+      "description": "Past form of bring."
+    },
+    {
+      "word": "HEAT",
+      "description": "Warmth or high temperature."
+    },
+    {
+      "word": "SNOW",
+      "description": "Frozen water that falls from the sky."
+    },
+    {
+      "word": "TIRE",
+      "description": "Rubber wheel covering, or become weary."
+    },
+    {
+      "word": "BRING",
+      "description": "To carry something to a place."
+    },
+    {
+      "word": "DISTANT",
+      "description": "Far away."
+    },
+    {
+      "word": "FILL",
+      "description": "To make full."
+    },
+    {
+      "word": "EAST",
+      "description": "The direction where the sun rises."
+    },
+    {
+      "word": "PAINT",
+      "description": "Colored liquid used on surfaces."
+    },
+    {
+      "word": "LANGUAGE",
+      "description": "A system of words used to communicate."
+    },
+    {
+      "word": "AMONG",
+      "description": "In the middle of a group."
+    },
+    {
+      "word": "UNIT",
+      "description": "A single thing or standard part."
+    },
+    {
+      "word": "POWER",
+      "description": "Strength, energy, or control."
+    },
+    {
+      "word": "TOWN",
+      "description": "A place smaller than a city."
+    },
+    {
+      "word": "FINE",
+      "description": "Good, thin, or a money penalty."
+    },
+    {
+      "word": "CERTAIN",
+      "description": "Sure or particular."
+    },
+    {
+      "word": "FALL",
+      "description": "To drop downward, or the autumn season."
+    },
+    {
+      "word": "LEAD",
+      "description": "To guide, or a heavy metal."
+    },
+    {
+      "word": "DARK",
+      "description": "Having little or no light."
+    },
+    {
+      "word": "MACHINE",
+      "description": "A device with moving parts."
+    },
+    {
+      "word": "NOTE",
+      "description": "A short written message or musical sound."
+    },
+    {
+      "word": "WAIT",
+      "description": "To stay until something happens."
+    },
+    {
+      "word": "PLAN",
+      "description": "A design or intention."
+    },
+    {
+      "word": "FIGURE",
+      "description": "A number, shape, or human form."
+    },
+    {
+      "word": "STAR",
+      "description": "A bright object in the night sky."
+    },
+    {
+      "word": "NOUN",
+      "description": "A word that names a person, place, or thing."
+    },
+    {
+      "word": "FIELD",
+      "description": "Open land, or an area of study."
+    },
+    {
+      "word": "REST",
+      "description": "The remaining part, or time off."
+    },
+    {
+      "word": "CORRECT",
+      "description": "Free from mistakes."
+    },
+    {
+      "word": "ABLE",
+      "description": "Having the power or skill."
+    },
+    {
+      "word": "POUND",
+      "description": "A unit of weight or a money name."
+    },
+    {
+      "word": "DONE",
+      "description": "Finished."
+    },
+    {
+      "word": "BEAUTY",
+      "description": "Quality that gives pleasure to the senses."
+    },
+    {
+      "word": "DRIVE",
+      "description": "To operate a vehicle or push forward."
+    },
+    {
+      "word": "STOOD",
+      "description": "Past form of stand."
+    },
+    {
+      "word": "CONTAIN",
+      "description": "To have something inside."
+    },
+    {
+      "word": "FRONT",
+      "description": "The forward part."
+    },
+    {
+      "word": "TEACH",
+      "description": "To help someone learn."
+    },
+    {
+      "word": "WEEK",
+      "description": "Seven days."
+    },
+    {
+      "word": "FINAL",
+      "description": "Last in order."
+    },
+    {
+      "word": "GAVE",
+      "description": "Past form of give."
+    },
+    {
+      "word": "GREEN",
+      "description": "The color of grass or leaves."
+    },
+    {
+      "word": "QUICK",
+      "description": "Fast."
+    },
+    {
+      "word": "DEVELOP",
+      "description": "To grow or improve over time."
+    },
+    {
+      "word": "OCEAN",
+      "description": "A huge body of salt water."
+    },
+    {
+      "word": "WARM",
+      "description": "Slightly hot."
+    },
+    {
+      "word": "FREE",
+      "description": "Not tied, owned, or costing money."
+    },
+    {
+      "word": "MINUTE",
+      "description": "A unit of sixty seconds."
+    },
+    {
+      "word": "STRONG",
+      "description": "Having much power."
+    },
+    {
+      "word": "SPECIAL",
+      "description": "Different in a meaningful way."
+    },
+    {
+      "word": "MIND",
+      "description": "The part used for thinking and feeling."
+    },
+    {
+      "word": "BEHIND",
+      "description": "At the back of something."
+    },
+    {
+      "word": "CLEAR",
+      "description": "Easy to see or understand."
+    },
+    {
+      "word": "TAIL",
+      "description": "The rear part of an animal."
+    },
+    {
+      "word": "PRODUCE",
+      "description": "To create or grow something."
+    },
+    {
+      "word": "FACT",
+      "description": "Something that is true."
+    },
+    {
+      "word": "SPACE",
+      "description": "An area, room, or the universe beyond Earth."
+    },
+    {
+      "word": "HEARD",
+      "description": "Past form of hear."
+    },
+    {
+      "word": "BEST",
+      "description": "Better than all others."
+    },
+    {
+      "word": "HOUR",
+      "description": "Sixty minutes."
+    },
+    {
+      "word": "BETTER",
+      "description": "Of higher quality or more suitable."
+    },
+    {
+      "word": "TRUE",
+      "description": "In agreement with reality."
+    },
+    {
+      "word": "DURING",
+      "description": "Throughout a period of time."
+    },
+    {
+      "word": "HUNDRED",
+      "description": "Ten times ten."
+    },
+    {
+      "word": "FIVE",
+      "description": "Number after four."
+    },
+    {
+      "word": "REMEMBER",
+      "description": "To keep or bring back in the mind."
+    },
+    {
+      "word": "STEP",
+      "description": "A movement of the foot, or a stage."
+    },
+    {
+      "word": "EARLY",
+      "description": "Before the usual time."
+    },
+    {
+      "word": "HOLD",
+      "description": "To keep in the hand or mind."
+    },
+    {
+      "word": "WEST",
+      "description": "The direction where the sun sets."
+    },
+    {
+      "word": "GROUND",
+      "description": "The earth under the feet."
+    },
+    {
+      "word": "INTEREST",
+      "description": "Curiosity, concern, or money earned."
+    },
+    {
+      "word": "REACH",
+      "description": "To get to or touch."
+    },
+    {
+      "word": "FAST",
+      "description": "Quick, or without eating."
+    },
+    {
+      "word": "VERB",
+      "description": "A word for action or state."
+    },
+    {
+      "word": "SING",
+      "description": "To make music with the voice."
+    },
+    {
+      "word": "LISTEN",
+      "description": "To pay attention to sound."
+    },
+    {
+      "word": "TABLE",
+      "description": "A piece of furniture with a flat top."
+    },
+    {
+      "word": "TRAVEL",
+      "description": "To go from one place to another."
+    },
+    {
+      "word": "LESS",
+      "description": "A smaller amount."
+    },
+    {
+      "word": "MORNING",
+      "description": "The early part of the day."
+    },
+    {
+      "word": "SIMPLE",
+      "description": "Easy and not complex."
+    },
+    {
+      "word": "SEVERAL",
+      "description": "More than two but not many."
+    },
+    {
+      "word": "VOWEL",
+      "description": "A speech sound like A, E, I, O, or U."
+    },
+    {
+      "word": "TOWARD",
+      "description": "In the direction of."
+    },
+    {
+      "word": "AGAINST",
+      "description": "In opposition to or touching."
+    },
+    {
+      "word": "PATTERN",
+      "description": "A repeated design or way."
+    },
+    {
+      "word": "SLOW",
+      "description": "Not fast."
+    },
+    {
+      "word": "CENTER",
+      "description": "The middle point."
+    },
+    {
+      "word": "LOVE",
+      "description": "Deep care or affection."
+    },
+    {
+      "word": "PERSON",
+      "description": "A human being."
+    },
+    {
+      "word": "MONEY",
+      "description": "Coins, bills, or value used to buy things."
+    },
+    {
+      "word": "SERVE",
+      "description": "To help, give, or be useful."
+    },
+    {
+      "word": "APPEAR",
+      "description": "To become visible."
+    },
+    {
+      "word": "ROAD",
+      "description": "A path for travel."
+    },
+    {
+      "word": "RAIN",
+      "description": "Water falling from clouds."
+    },
+    {
+      "word": "RULE",
+      "description": "A standard, law, or usual habit."
+    },
+    {
+      "word": "GOVERN",
+      "description": "To control or manage."
+    },
+    {
+      "word": "PULL",
+      "description": "To move something toward yourself."
+    },
+    {
+      "word": "COLD",
+      "description": "Low in temperature."
+    },
+    {
+      "word": "NOTICE",
+      "description": "To see something or pay attention."
+    },
+    {
+      "word": "VOICE",
+      "description": "The sound made when speaking or singing."
+    },
+    {
+      "word": "ENERGY",
+      "description": "The ability to do work or move."
+    },
+    {
+      "word": "HUNT",
+      "description": "To search for animals or something wanted."
+    },
+    {
+      "word": "PROBABLE",
+      "description": "Likely to happen."
+    },
+    {
+      "word": "BROTHER",
+      "description": "A male sibling."
+    },
+    {
+      "word": "RIDE",
+      "description": "To travel on or in something."
+    },
+    {
+      "word": "CELL",
+      "description": "A small room or smallest unit of life."
+    },
+    {
+      "word": "BELIEVE",
+      "description": "To accept as true."
+    },
+    {
+      "word": "PERHAPS",
+      "description": "Maybe; possibly."
+    },
+    {
+      "word": "PICK",
+      "description": "To choose or lift up."
+    },
+    {
+      "word": "SUDDEN",
+      "description": "Happening quickly without warning."
+    },
+    {
+      "word": "COUNT",
+      "description": "To add numbers one by one."
+    },
+    {
+      "word": "SQUARE",
+      "description": "A shape with four equal sides."
+    },
+    {
+      "word": "REASON",
+      "description": "A cause or explanation."
+    },
+    {
+      "word": "LENGTH",
+      "description": "The measurement from end to end."
+    },
+    {
+      "word": "REPRESENT",
+      "description": "To stand for or show."
+    },
+    {
+      "word": "SUBJECT",
+      "description": "A topic, school area, or person under rule."
+    },
+    {
+      "word": "REGION",
+      "description": "A broad area of land."
+    },
+    {
+      "word": "SIZE",
+      "description": "How big or small something is."
+    },
+    {
+      "word": "VARY",
+      "description": "To change from one case to another."
+    },
+    {
+      "word": "SETTLE",
+      "description": "To become calm, choose, or start living."
+    },
+    {
+      "word": "SPEAK",
+      "description": "To say words aloud."
+    },
+    {
+      "word": "WEIGHT",
+      "description": "How heavy something is."
+    },
+    {
+      "word": "GENERAL",
+      "description": "Common or not specific."
+    },
+    {
+      "word": "MATTER",
+      "description": "A subject, or physical substance."
+    },
+    {
+      "word": "CIRCLE",
+      "description": "A round shape."
+    },
+    {
+      "word": "PAIR",
+      "description": "Two things that go together."
+    },
+    {
+      "word": "INCLUDE",
+      "description": "To contain as part of something."
+    },
+    {
+      "word": "DIVIDE",
+      "description": "To separate into parts."
+    },
+    {
+      "word": "SYLLABLE",
+      "description": "A unit of sound in a word."
+    },
+    {
+      "word": "FELT",
+      "description": "Past form of feel, or a soft fabric."
+    },
+    {
+      "word": "GRAND",
+      "description": "Very large, important, or impressive."
+    },
+    {
+      "word": "BALL",
+      "description": "A round object used in games."
+    },
+    {
+      "word": "WAVE",
+      "description": "A moving swell of water or a hand motion."
+    },
+    {
+      "word": "DROP",
+      "description": "A small round amount of liquid, or to fall."
+    },
+    {
+      "word": "HEART",
+      "description": "The organ that pumps blood, or deep feeling."
+    },
+    {
+      "word": "PRESENT",
+      "description": "Existing now, or a gift."
+    },
+    {
+      "word": "HEAVY",
+      "description": "Weighing a lot."
+    },
+    {
+      "word": "DANCE",
+      "description": "To move rhythmically to music."
+    },
+    {
+      "word": "ENGINE",
+      "description": "A machine that creates power."
+    },
+    {
+      "word": "POSITION",
+      "description": "Place, posture, or rank."
+    },
+    {
+      "word": "WIDE",
+      "description": "Having great width."
+    },
+    {
+      "word": "SAIL",
+      "description": "Cloth used by wind on a boat, or to travel by sea."
+    },
+    {
+      "word": "MATERIAL",
+      "description": "What something is made from."
+    },
+    {
+      "word": "FRACTION",
+      "description": "A part of a whole number."
+    },
+    {
+      "word": "FOREST",
+      "description": "A large area filled with trees."
+    },
+    {
+      "word": "RACE",
+      "description": "A speed contest, or a group of people."
+    },
+    {
+      "word": "WINDOW",
+      "description": "An opening in a wall with glass."
+    },
+    {
+      "word": "STORE",
+      "description": "A place where goods are sold."
+    },
+    {
+      "word": "SUMMER",
+      "description": "The warmest season."
+    },
+    {
+      "word": "TRAIN",
+      "description": "A linked set of rail cars, or to teach skill."
+    },
+    {
+      "word": "SLEEP",
+      "description": "To rest while unconscious."
+    },
+    {
+      "word": "PROVE",
+      "description": "To show something is true."
+    },
+    {
+      "word": "LONE",
+      "description": "Alone and without company."
+    },
+    {
+      "word": "EXERCISE",
+      "description": "Activity done to keep the body fit."
+    },
+    {
+      "word": "WALL",
+      "description": "A vertical structure that encloses or divides."
+    },
+    {
+      "word": "CATCH",
+      "description": "To grab, capture, or understand."
+    },
+    {
+      "word": "MOUNT",
+      "description": "To climb or place upon."
+    },
+    {
+      "word": "WISH",
+      "description": "A desire for something."
+    },
+    {
+      "word": "BOARD",
+      "description": "A flat piece of wood, or a group that manages."
+    },
+    {
+      "word": "WINTER",
+      "description": "The coldest season."
+    },
+    {
+      "word": "WRITTEN",
+      "description": "Put into words in text."
+    },
+    {
+      "word": "WILD",
+      "description": "Living free in nature, or uncontrolled."
+    },
+    {
+      "word": "INSTRUMENT",
+      "description": "A tool or device, often for music or science."
+    },
+    {
+      "word": "KEPT",
+      "description": "Past form of keep."
+    },
+    {
+      "word": "GLASS",
+      "description": "Hard clear material used for windows and cups."
+    },
+    {
+      "word": "GRASS",
+      "description": "Green plant covering the ground."
+    },
+    {
+      "word": "EDGE",
+      "description": "The outer line or border."
+    },
+    {
+      "word": "SIGN",
+      "description": "A mark with meaning."
+    },
+    {
+      "word": "VISIT",
+      "description": "To go see a person or place."
+    },
+    {
+      "word": "PAST",
+      "description": "Time already gone by."
+    },
+    {
+      "word": "SOFT",
+      "description": "Easy to press or gentle."
+    },
+    {
+      "word": "BRIGHT",
+      "description": "Giving much light, or clever."
+    },
+    {
+      "word": "WEATHER",
+      "description": "The condition of the air outside."
+    },
+    {
+      "word": "MONTH",
+      "description": "One of the twelve parts of a year."
+    },
+    {
+      "word": "MILLION",
+      "description": "One thousand thousand."
+    },
+    {
+      "word": "BEAR",
+      "description": "A large wild animal, or to carry."
+    },
+    {
+      "word": "FINISH",
+      "description": "To bring to an end."
+    },
+    {
+      "word": "HAPPY",
+      "description": "Feeling joy."
+    },
+    {
+      "word": "HOPE",
+      "description": "A wish for something good to happen."
+    },
+    {
+      "word": "FLOWER",
+      "description": "The blooming part of a plant."
+    },
+    {
+      "word": "CLOTHE",
+      "description": "To dress or provide clothes for."
+    },
+    {
+      "word": "STRANGE",
+      "description": "Unusual or unfamiliar."
+    },
+    {
+      "word": "GONE",
+      "description": "No longer present."
+    },
+    {
+      "word": "TRADE",
+      "description": "The act of buying and selling."
+    },
+    {
+      "word": "MELODY",
+      "description": "A tuneful line of music."
+    },
+    {
+      "word": "TRIP",
+      "description": "A journey or fall caused by stumbling."
+    },
+    {
+      "word": "OFFICE",
+      "description": "A room or place for work or duty."
+    },
+    {
+      "word": "RECEIVE",
+      "description": "To get something."
+    },
+    {
+      "word": "MOUTH",
+      "description": "The opening used for eating and speaking."
+    },
+    {
+      "word": "EXACT",
+      "description": "Completely correct."
+    },
+    {
+      "word": "SYMBOL",
+      "description": "A mark that stands for something."
+    },
+    {
+      "word": "LEAST",
+      "description": "The smallest amount."
+    },
+    {
+      "word": "TROUBLE",
+      "description": "Difficulty or a problem."
+    },
+    {
+      "word": "SHOUT",
+      "description": "To say something very loudly."
+    },
+    {
+      "word": "EXCEPT",
+      "description": "Not including."
+    },
+    {
+      "word": "WROTE",
+      "description": "Past form of write."
+    },
+    {
+      "word": "SEED",
+      "description": "Small beginning part that can grow into a plant."
+    },
+    {
+      "word": "TONE",
+      "description": "A musical or vocal sound quality."
+    },
+    {
+      "word": "JOIN",
+      "description": "To come together or connect."
+    },
+    {
+      "word": "SUGGEST",
+      "description": "To offer an idea."
+    },
+    {
+      "word": "CLEAN",
+      "description": "Free from dirt."
+    },
+    {
+      "word": "BREAK",
+      "description": "To separate into pieces or pause."
+    },
+    {
+      "word": "LADY",
+      "description": "A polite word for a woman."
+    },
+    {
+      "word": "YARD",
+      "description": "An outdoor area, or a unit of measure."
+    },
+    {
+      "word": "RISE",
+      "description": "To move upward."
+    },
+    {
+      "word": "BLOW",
+      "description": "To move air, or strike."
+    },
+    {
+      "word": "BLOOD",
+      "description": "The red liquid in the body."
+    },
+    {
+      "word": "TOUCH",
+      "description": "To make contact with."
+    },
+    {
+      "word": "GREW",
+      "description": "Past form of grow."
+    },
+    {
+      "word": "CENT",
+      "description": "One hundredth of a dollar."
+    },
+    {
+      "word": "TEAM",
+      "description": "A group working or playing together."
+    },
+    {
+      "word": "WIRE",
+      "description": "Thin metal strand."
+    },
+    {
+      "word": "COST",
+      "description": "The amount something is worth or requires."
+    },
+    {
+      "word": "LOST",
+      "description": "No longer found."
+    },
+    {
+      "word": "BROWN",
+      "description": "A dark color like soil or wood."
+    },
+    {
+      "word": "WEAR",
+      "description": "To have clothes on, or slowly damage."
+    },
+    {
+      "word": "GARDEN",
+      "description": "A place where plants are grown."
+    },
+    {
+      "word": "EQUAL",
+      "description": "The same in amount or value."
+    },
+    {
+      "word": "SENT",
+      "description": "Past form of send."
+    },
+    {
+      "word": "CHOOSE",
+      "description": "To pick between options."
+    },
+    {
+      "word": "FELL",
+      "description": "Past form of fall."
+    },
+    {
+      "word": "FLOW",
+      "description": "To move smoothly like liquid."
+    },
+    {
+      "word": "FAIR",
+      "description": "Just and honest, or an event with rides and booths."
+    },
+    {
+      "word": "BANK",
+      "description": "A place for money, or the side of a river."
+    },
+    {
+      "word": "COLLECT",
+      "description": "To gather together."
+    },
+    {
+      "word": "SAVE",
+      "description": "To keep safe or avoid wasting."
+    },
+    {
+      "word": "CONTROL",
+      "description": "Power to guide or manage."
+    },
+    {
+      "word": "DECIMAL",
+      "description": "A number part based on ten."
+    },
+    {
+      "word": "ELSE",
+      "description": "Other or different."
+    },
+    {
+      "word": "QUITE",
+      "description": "To a noticeable degree."
+    },
+    {
+      "word": "BROKE",
+      "description": "Past form of break, or without money."
+    },
+    {
+      "word": "CASE",
+      "description": "A situation, box, or legal matter."
+    },
+    {
+      "word": "MIDDLE",
+      "description": "The part between the ends."
+    },
+    {
+      "word": "KILL",
+      "description": "To cause death."
+    },
+    {
+      "word": "LAKE",
+      "description": "A body of water surrounded by land."
+    },
+    {
+      "word": "MOMENT",
+      "description": "A very short time."
+    },
+    {
+      "word": "SCALE",
+      "description": "A set of levels, or a tool for weighing."
+    },
+    {
+      "word": "LOUD",
+      "description": "Making a strong sound."
+    },
+    {
+      "word": "SPRING",
+      "description": "The season after winter, or a coiled device."
+    },
+    {
+      "word": "OBSERVE",
+      "description": "To watch carefully or notice."
+    },
+    {
+      "word": "CHILD",
+      "description": "A young person."
+    },
+    {
+      "word": "STRAIGHT",
+      "description": "Not bent or direct."
+    },
+    {
+      "word": "CONSONANT",
+      "description": "A speech sound other than a vowel."
+    },
+    {
+      "word": "NATION",
+      "description": "A country and its people."
+    },
+    {
+      "word": "DICTIONARY",
+      "description": "A book that explains words."
+    },
+    {
+      "word": "MILK",
+      "description": "White liquid produced by mammals."
+    },
+    {
+      "word": "SPEED",
+      "description": "How fast something moves."
+    },
+    {
+      "word": "METHOD",
+      "description": "A way of doing something."
+    },
+    {
+      "word": "ORGAN",
+      "description": "A body part with a special job, or a music instrument."
+    },
+    {
+      "word": "SECTION",
+      "description": "A part of a larger whole."
+    },
+    {
+      "word": "DRESS",
+      "description": "A woman's garment, or to put clothes on."
+    },
+    {
+      "word": "CLOUD",
+      "description": "A mass of water vapor in the sky."
+    },
+    {
+      "word": "SURPRISE",
+      "description": "Something unexpected."
+    },
+    {
+      "word": "QUIET",
+      "description": "Making little or no noise."
+    },
+    {
+      "word": "STONE",
+      "description": "A hard piece of rock."
+    },
+    {
+      "word": "TINY",
+      "description": "Very small."
+    },
+    {
+      "word": "BRIDGE",
+      "description": "A structure built to cross over water or road."
+    },
+    {
+      "word": "CAMERA",
+      "description": "A device used to take pictures."
+    },
+    {
+      "word": "BOTTLE",
+      "description": "A container with a narrow neck."
+    },
+    {
+      "word": "MARKET",
+      "description": "A place where goods are bought and sold."
+    },
+    {
+      "word": "PILLOW",
+      "description": "A soft support for the head in bed."
+    },
+    {
+      "word": "LANTERN",
+      "description": "A portable light with a cover."
+    },
+    {
+      "word": "MIRROR",
+      "description": "A surface that reflects an image."
+    },
+    {
+      "word": "WALLET",
+      "description": "A small holder for money and cards."
+    },
+    {
+      "word": "BAKERY",
+      "description": "A place where bread and cakes are made or sold."
+    },
+    {
+      "word": "HAMMER",
+      "description": "A tool used for hitting nails."
+    },
+    {
+      "word": "POCKET",
+      "description": "A small sewn space inside clothing."
+    },
+    {
+      "word": "ROCKET",
+      "description": "A vehicle or weapon that moves by thrust."
+    },
+    {
+      "word": "CASTLE",
+      "description": "A large fortified residence."
+    },
+    {
+      "word": "CANDLE",
+      "description": "A stick of wax that gives light when burning."
+    },
+    {
+      "word": "BASKET",
+      "description": "A container woven for carrying things."
+    },
+    {
+      "word": "STREAM",
+      "description": "A small flow of water."
+    },
+    {
+      "word": "TURTLE",
+      "description": "A slow animal with a hard shell."
+    },
+    {
+      "word": "BUTTON",
+      "description": "A small fastener or control to press."
+    },
+    {
+      "word": "PENCIL",
+      "description": "A tool used for writing or drawing."
+    },
+    {
+      "word": "SHELTER",
+      "description": "A place that gives protection."
+    }
+  ]
+}
